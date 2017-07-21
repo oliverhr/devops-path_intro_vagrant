@@ -29,6 +29,11 @@ After run the `vagrant up` an error can be displayed at the very end of the setu
  
 Don't worry about it, the VM was created as normal and all the setup was completed successfully, you can check this by running `vagrant ssh` to get connected to the guest machine an you will see `➜  ~` as prompt.
 
+### Requirements
+
+* [VirtualBox](https://www.virtualbox.org/wiki/Downloads)
+* [Vagrant](https://www.vagrantup.com/downloads.html)
+
 ### References
 
 * [Vagrant Documentation](https://www.vagrantup.com/docs/index.html)
